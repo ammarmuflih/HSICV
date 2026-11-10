@@ -2,3 +2,4 @@ rasterio
 opencv-python
 matplotlib
 scipy
+scikit-learn
